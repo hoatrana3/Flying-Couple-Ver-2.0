@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /Users/macintoshhd/CLionProjects/SFML
+-- Found SFML .. in /Library/Frameworks/SFML.framework
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/macintoshhd/CLionProjects/SFML/cmake-build-release
